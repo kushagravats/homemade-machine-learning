@@ -101,10 +101,11 @@ _fp_ - number of false positives.
 
 _fn_ - number of false negatives.
 
+For more information on precision and recall, you can refer to the [Precision and Recall Wikipedia page](https://en.wikipedia.org/wiki/Precision_and_recall).
+
 ## References
 
 - [Machine Learning on Coursera](https://www.coursera.org/learn/machine-learning)
 - [Normal Distribution on Wikipedia](https://en.wikipedia.org/wiki/Normal_distribution)
 - [F1 Score on Wikipedia](https://en.wikipedia.org/wiki/F1_score)
 - [Precision and Recall on Wikipedia](https://en.wikipedia.org/wiki/Precision_and_recall)
-  
