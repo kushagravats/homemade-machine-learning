@@ -106,7 +106,7 @@ class LinearRegression:
 
         self.theta = theta
 
-    def get_cost(self, data, labels, lambda_param):
+    def cost(self, data, labels, lambda_param):
         """Get the cost value for specific data set.
 
         :param data: the set of training or test data.
