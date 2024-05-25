@@ -1,3 +1,4 @@
-.idea
-env
-.ipynb_checkpoints
+echo "PG_DATABASE=new_database" > update.env
+echo "PG_USER=new_user" >> update.env
+echo "PG_PASSWORD=new_password" >> update.env
+echo "PG_HOST=new_host" >> update.env
